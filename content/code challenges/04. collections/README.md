@@ -7,6 +7,10 @@ Create a console app that asks for a set of names and will end once the user typ
  - Remove all the elements of the list once all the names are printed 
  - At the same time, you are printing the names remove it from the list 
 
+> **_NOTE:_**  Create a function for each of the requirements.
+
+> **_NOTE:_**  Use the data structure you consider is best suited for each scenario: List, Stack, Queue.
+
 ### Skills to evaluate
  - List operations (Add, Reverse, Clear, Remove)
  - Queue and Stack
